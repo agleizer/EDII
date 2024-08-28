@@ -3,8 +3,9 @@ package edii_polimorfismo;
 public class PokemonAgua extends Pokemon {
 	
 	// construtores
-	public PokemonAgua(String nome, int nivel, int hp) {
+	public PokemonAgua(String nome, String tipo, int nivel, int hp) {
 		this.setNome(nome);
+		this.setTipo(tipo);
 		this.setNivel(nivel);
 		this.setHp(hp);
 	}
