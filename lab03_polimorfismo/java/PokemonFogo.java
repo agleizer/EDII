@@ -1,4 +1,3 @@
-package edii_polimorfismo;
 
 public class PokemonFogo extends Pokemon {
 	
