@@ -1,6 +1,6 @@
 public class BinaryTree {
     // attributes
-    Node root;
+    private Node root;
 
     // constructors
     public BinaryTree() {
